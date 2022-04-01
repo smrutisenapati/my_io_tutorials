@@ -1,0 +1,3 @@
+<launch>
+	<node name="$(anon bar)" pkg="listener" type="listener.py" output="screen"/>
+</launch>
